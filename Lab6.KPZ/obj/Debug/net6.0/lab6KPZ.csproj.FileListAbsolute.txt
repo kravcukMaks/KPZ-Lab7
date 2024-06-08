@@ -1,0 +1,15 @@
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.csproj.AssemblyReference.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.AssemblyInfoInputs.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.AssemblyInfo.cs
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\lab6KPZ.exe
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\lab6KPZ.deps.json
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\lab6KPZ.runtimeconfig.json
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\lab6KPZ.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\lab6KPZ.pdb
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\refint\lab6KPZ.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.pdb
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\lab6KPZ.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\ref\lab6KPZ.dll

@@ -1,0 +1,30 @@
+D:\ Files\ATM\Lab1.NET Core\bin\Debug\net6.0\Lab1.NET Core.exe
+D:\ Files\ATM\Lab1.NET Core\bin\Debug\net6.0\Lab1.NET Core.deps.json
+D:\ Files\ATM\Lab1.NET Core\bin\Debug\net6.0\Lab1.NET Core.runtimeconfig.json
+D:\ Files\ATM\Lab1.NET Core\bin\Debug\net6.0\Lab1.NET Core.dll
+D:\ Files\ATM\Lab1.NET Core\bin\Debug\net6.0\Lab1.NET Core.pdb
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.csproj.AssemblyReference.cache
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.AssemblyInfoInputs.cache
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.AssemblyInfo.cs
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.csproj.CoreCompileInputs.cache
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.dll
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\refint\Lab1.NET Core.dll
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.pdb
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\Lab1.NET Core.genruntimeconfig.cache
+D:\ Files\ATM\Lab1.NET Core\obj\Debug\net6.0\ref\Lab1.NET Core.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\Lab1.NET Core.exe
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\Lab1.NET Core.deps.json
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\Lab1.NET Core.runtimeconfig.json
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\Lab1.NET Core.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\bin\Debug\net6.0\Lab1.NET Core.pdb
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.csproj.AssemblyReference.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.AssemblyInfoInputs.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.AssemblyInfo.cs
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\refint\Lab1.NET Core.dll
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.pdb
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\Lab1.NET Core.genruntimeconfig.cache
+C:\Users\UserHome\Desktop\ATM\Lab6.KPZ\obj\Debug\net6.0\ref\Lab1.NET Core.dll
